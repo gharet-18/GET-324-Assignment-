@@ -54,18 +54,12 @@ Deployed on Streamlit Community Cloud:
 [Fill in — e.g., dataset size handled with augmentation, model file size for deployment, etc.]
 
 ## 👥 Team Members
-| Name | Registration Number | GitHub Username | Role |
-|------|---------------------|------------------|------|
-|      |                     |                  | Data prep |
-|      |                     |                  | Model training |
-|      |                     |                  | Evaluation |
-|      |                     |                  | App development |
-|      |                     |                  | Deployment & docs |
-
-## 🌿 Branch Workflow
-Each member works on their own branch, then opens a Pull Request into `main`:
-- `data-prep`
-- `model-training`
-- `evaluation`
-- `app-dev`
-- `deployment-docs`
+Ebong, Margaret Christopher 23/EG/CO/036   gharet-18
+Akpan, Idongesit Moses      23/EG/CO/086   idongesitakpan197-coder
+Ibok, Saviour Joseph        23/EG/CO/056   Saviour-Ibok1
+Okon, Imoh Daniel           23/EG/CO/006   danielimoh67-beep
+Jones, Daniel Williams      23/EG/CO/116   
+Ukpoh, Godswill Daniel      23/EG/CO/266   GWILLSUB
+Ita, Louis Micheal          23/EG/CO/016   louismichealddev
+Oyemachi, Ifechukwu Stephen 23/EG/CO/136   ifechukwuonyemachi16-ai
+Hycienth, Akunnaya Perpetual 23/EG/CO/026  akunnaperpetual21-design
