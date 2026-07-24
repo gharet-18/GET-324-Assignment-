@@ -66,4 +66,3 @@ Deployed on Streamlit Community Cloud:
 | Oyemachi, Ifechukwu Stephen | 23/EG/CO/136 | ifechukwuonyemachi16-ai |
 | Hycienth, Akunnaya Perpetual | 23/EG/CO/026 | akunnaperpetual21-design |
 
-Note: Jones, Daniel Williams doesn't have a GitHub username in your list — you'll want to get that from them before finalizing the README.
