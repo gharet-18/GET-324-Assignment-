@@ -1,0 +1,22 @@
+# Raw dataset (too large for GitHub - keep only prepare_data.py)
+data/train/
+data/val/
+data/raw/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle credentials (never push this!)
+kaggle.json
