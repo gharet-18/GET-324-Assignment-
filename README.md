@@ -10,7 +10,7 @@ A CNN-based binary image classifier that distinguishes Potato Early Blight from 
 ## 📊 Dataset
 [PlantVillage Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) — Kaggle dataset containing labeled potato leaf images (Early Blight, Late Blight, Healthy). Only the Early Blight and Late Blight classes are used here.
 
-## 🧠 Model
+##  Model
 - Base: MobileNetV2 (transfer learning, pretrained on ImageNet)
 - Head: GlobalAveragePooling2D → Dense(128, ReLU) → Dropout(0.3) → Dense(1, Sigmoid)
 - Input size: 224x224
