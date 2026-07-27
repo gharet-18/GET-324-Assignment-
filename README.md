@@ -65,4 +65,5 @@ Deployed on Streamlit Community Cloud:
 | Ita, Louis Micheal | 23/EG/CO/016 | louismichealddev |
 | Oyemachi, Ifechukwu Stephen | 23/EG/CO/136 | ifechukwuonyemachi16-ai |
 | Hycienth, Akunnaya Perpetual | 23/EG/CO/026 | akunnaperpetual21-design |
+| Ajayi, David Oluwaseyi | 23/EG/CO/76 | davjay001
 
