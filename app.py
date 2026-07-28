@@ -34,4 +34,3 @@ if file is not None:
 
     st.subheader(f"Prediction: {label}")
     st.write(f"Confidence: {confidence:.2%}")
-    st.write(f"Raw prediction value: {prediction}")
