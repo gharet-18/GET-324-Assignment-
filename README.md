@@ -51,7 +51,15 @@ Deployed on Streamlit Community Cloud:
 3. Click Deploy
 
 ## 🚧 Challenges & Solutions
-[Fill in — e.g., dataset size handled with augmentation, model file size for deployment, etc.]
+Here's a tightened version:
+
+---
+
+**Challenges & Limitations**
+
+Limited local RAM slowed training, addressed by using the lightweight MobileNetV2 and smaller batch sizes. Unstable internet caused repeated failures installing dependencies and pushing large files to GitHub, resolved by adjusting Git's buffer settings and using GitHub's web upload. A Python version mismatch broke TensorFlow installation on Streamlit Cloud, fixed by pinning Python 3.11 via `runtime.txt`. Initial prediction confidence was low, improved by fine-tuning the last 30 layers at a lower learning rate.
+
+Limitation:The model performs well on PlantVillage-style images (99% recall) but struggles with real-world photos with cluttered backgrounds or multiple leaves, since training data was clean and single-leaf. This reflects a common transfer-learning gap and could be improved with more diverse training images or stronger augmentation.
 
 ## 👥 Team Members
 | Name | Registration Number | GitHub Username |
