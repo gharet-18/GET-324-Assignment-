@@ -42,7 +42,7 @@ cd potato-blight-classifier
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Upload a potato leaf image and the app will return a prediction (Early Blight or Late Blight) with a confidence score.
+Upload an image of a potato leaf and the app will return a prediction (Early Blight or Late Blight) with a confidence score.
 
 ## ☁️ Deployment
 Deployed on Streamlit Community Cloud:
