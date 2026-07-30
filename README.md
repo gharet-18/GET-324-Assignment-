@@ -5,7 +5,7 @@ A CNN-based binary image classifier that distinguishes Potato Early Blight from 
 **Group:** CO14 | GET 324 Laboratory Exercise 10 (Mini-Project)
 
 ## 🔗 Live App
-https://gqrbjqkqkps2dzlv7t7dch.streamlit.app/#potato-blight-classifier
+https://gqrbjqkqkps2dzlv7t7dch.streamlit.app/#potato-blight-classifier 
 
 ## 📊 Dataset
 [PlantVillage Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) — Kaggle dataset containing labeled potato leaf images (Early Blight, Late Blight, Healthy). Only the Early Blight and Late Blight classes are used here.
