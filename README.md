@@ -50,10 +50,7 @@ Deployed on Streamlit Community Cloud:
 2. Click "New app" → select this repo, `main` branch, `app.py`
 3. Click Deploy
 
-## 🚧 Challenges & Solutions
-Here's a tightened version:
-
----
+## 🚧 Challenge
 
 **Challenges & Limitations**
 
