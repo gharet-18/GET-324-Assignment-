@@ -71,5 +71,5 @@ Limitation:The model performs well on PlantVillage-style images (99% recall) but
 | Oyemachi, Ifechukwu Stephen | 23/EG/CO/136 | ifechukwuonyemachi16-ai |
 | Hycienth, Akunnaya Perpetual | 23/EG/CO/026 | akunnaperpetual21-design |
 | Ajayi, David Oluwaseyi | 23/EG/CO/076 | davjay001
-| Clinton Dominion Chinecherem | 23/EG/CO/096 | DCMax1111
+| Clinton, Dominion Chinecherem | 23/EG/CO/096 | DCMax1111
 | Edet Victor Emmanuel  | 23/EG/CO/106 | ruly35
