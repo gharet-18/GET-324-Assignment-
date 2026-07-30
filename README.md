@@ -66,7 +66,7 @@ Limitation:The model performs well on PlantVillage-style images (99% recall) but
 | Ibok, Saviour Joseph | 23/EG/CO/056 | Saviour-Ibok1 |
 | Okon, Imoh Daniel | 23/EG/CO/006 | danielimoh67-beep |
 | Jones, Daniel Williams | 23/EG/CO/116 | — |
-| Ukpoh, Godswill Daniel | 23/EG/CO/266 | GWILLSUB |
+| Ukpoh, Godswill Daniel | 24/EG/CO/266 | GWILLSUB |
 | Ita, Louis Micheal | 23/EG/CO/016 | louismichealddev |
 | Oyemachi, Ifechukwu Stephen | 23/EG/CO/136 | ifechukwuonyemachi16-ai |
 | Hycienth, Akunnaya Perpetual | 23/EG/CO/026 | akunnaperpetual21-design |
