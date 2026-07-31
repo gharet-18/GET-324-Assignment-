@@ -9,7 +9,7 @@ class_names = ["early_blight", "late_blight"]
 
 #APP UI
 st.title("🥔 Potato Blight Classifier")
-st.write("Upload a potato leaf image to check if it shows signs of Early Blight or Late Blight.")
+st.write("Upload a potato leaf image to check if it shows signs of Early Blight or Late Blight.") 
 
 file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
