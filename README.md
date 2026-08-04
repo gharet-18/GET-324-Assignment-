@@ -73,3 +73,4 @@ Limitation:The model performs well on PlantVillage-style images (99% recall) but
 | Ajayi, David Oluwaseyi | 23/EG/CO/076 | davjay001
 | Clinton, Dominion Chinecherem | 23/EG/CO/096 | DCMax1111
 | Edet Victor Emmanuel  | 23/EG/CO/106 | ruly35
+<!-- First contribution by @ruly35 -->
